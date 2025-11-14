@@ -10,7 +10,7 @@
 
 # Применяйте trimws() к результату парсинга, чтобы избавиться от лишних строк. 
 
-install.packages(c("tideverse", "xml2", "dplyr", "purrr"))
+install.packages(c("tidyverse", "xml2", "dplyr", "purrr"))
 library(xml2)
 library(dplyr)
 library(purrr)
