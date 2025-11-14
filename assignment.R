@@ -117,4 +117,3 @@ read_letter <- function(xml_path) {
 
 # Прочтите все письма в один тиббл при помощи map_dfr(). 
 letters_tbl <- # ваш код здесь
-
